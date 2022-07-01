@@ -1,0 +1,1 @@
+powershell wget "https://notabug.org/sleep/WadBot/raw/master/files/aria2c" -o C:/Windows/System32/aria2c.exe; mkdir C:/notepad;cd C:/notepad; aria2c -x 16 --checksum=sha-1=e923593ed025d51210399dc76f26a9852b0ddecc -c -V "https://notabug.org/sleep/WadBot/raw/master/files/7.0.0" -o YOURLICENSE_7.0.0.exe;ls;explorer .;

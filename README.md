@@ -9,7 +9,7 @@ Read The [setup guide](https://setup.wadbot.lol/) first.
 ### Download
 
 - open CMD as admin (important)
-- open [The Installscript](https://notabug.org/sleep/WadBot/raw/dev/install.bat) in a new tab and paste it into CMD (don't change anything)
+- open [The Installscript](install.bat) in a new tab and paste it into CMD (don't change anything)
 - once finished, right click the exe and rename it to YourWadBotLicense_7.0.0.exe
 - (XXXXXXXXXXXXXXXX_7.0.0.exe)
 

@@ -13,7 +13,7 @@ Read The [setup guide](https://setup.wadbot.lol/) first.
 - once finished, right click the exe and rename it to YourWadBotLicense_7.0.0.exe
 - (XXXXXXXXXXXXXXXX_7.0.0.exe)
 
-### Dumb issues
+### Help
 ###### x problem
 
 - run CMD as admin (it says open CMD as admin for a reason)

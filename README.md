@@ -1,4 +1,4 @@
-# WadBot 7.1.0
+# WadBot 7.1.1
 
 ![WadBot Logo](/files/logo.png)
 
@@ -10,8 +10,8 @@ Read The [setup guide](https://setup.wadbot.lol/) first.
 
 - open CMD as admin (important)
 - open [The Installscript](install.bat) in a new tab and paste it into CMD (don't change anything)
-- once finished, right click the exe and rename it to YourWadBotLicense_7.1.0.exe
-- (XXXXXXXXXXXXXXXX_7.1.0.exe)
+- once finished, right click the exe and rename it to YourWadBotLicense_7.1.1.exe
+- (XXXXXXXXXXXXXXXX_7.1.1.exe)
 
 ### Help
 ###### x problem

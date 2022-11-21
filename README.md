@@ -1,4 +1,4 @@
-# WadBot 7.1.3
+# WadBot 
 
 ![WadBot Logo](/files/logo.png)
 
